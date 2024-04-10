@@ -1,0 +1,13 @@
+deepface==0.0.81
+fastapi==0.110.1
+mongoengine==0.27.0
+numpy==1.26.4
+opencv_python==4.9.0.80
+pandas==2.2.1
+passlib==1.7.4
+pydantic==2.6.4
+PyJWT==2.8.0
+PyJWT==2.8.0
+python_jose==3.3.0
+tensorflow==2.15.0
+tensorflow_intel==2.15.0
